@@ -14,7 +14,7 @@ React wrapper around [Hotkeys.js](https://github.com/jaywcjlove/hotkeys).
                                   ╰┈┈┈┈┈╯
 ```
 
-**Use Hot Keys** - React hook that listen to keyboard events, defining and dispatching keyboard shortcuts.
+**Use Hotkeys** - React hook that listen to keyboard events, defining and dispatching keyboard shortcuts.
 
 Read about [Hooks](https://reactjs.org/docs/hooks-intro.html) feature.
 
