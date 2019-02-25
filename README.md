@@ -36,7 +36,7 @@ yarn add use-hotkeys
 
 # Usage
 
-[![Edit 0qmp2q2n2l](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/0qmp2q2n2l?fontsize=14)
+[![Edit 1llx4n8q4](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/1llx4n8q4?fontsize=14)
 
 ```jsx
 import useHotkeys from 'use-hotkeys';
