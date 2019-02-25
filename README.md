@@ -5,6 +5,7 @@
 ![NpmLicense](https://img.shields.io/npm/l/use-hotkeys.svg)
 
 **Use Hot Keys** - React hook that listen to keyboard events, defining and dispatching keyboard shortcuts.
+
 Read about [Hooks](https://reactjs.org/docs/hooks-intro.html) feature.
 
 # Install
