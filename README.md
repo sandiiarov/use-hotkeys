@@ -4,6 +4,16 @@
 ![npm](https://img.shields.io/npm/v/use-hotkeys.svg)
 ![NpmLicense](https://img.shields.io/npm/l/use-hotkeys.svg)
 
+React wrapper around [Hotkeys.js](https://github.com/jaywcjlove/hotkeys).
+
+```shell
+╭┈┈╮          ╭┈┈╮  ╭┈┈╮
+┆  ├┈┈..┈┈┈┈┈.┆  └┈╮┆  ├┈┈..┈┈┈┈┈..┈┈.┈┈..┈┈┈┈┈.
+┆     ┆┆  □  ┆┆   ┈┤┆    < ┆  -__┘┆  ┆  ┆┆__ ┈┈┤
+╰┈┈┴┈┈╯╰┈┈┈┈┈╯╰┈┈┈┈╯╰┈┈┴┈┈╯╰┈┈┈┈┈╯╰┈┈┈  ┆╰┈┈┈┈┈╯
+                                  ╰┈┈┈┈┈╯
+```
+
 **Use Hot Keys** - React hook that listen to keyboard events, defining and dispatching keyboard shortcuts.
 
 Read about [Hooks](https://reactjs.org/docs/hooks-intro.html) feature.
