@@ -37,7 +37,7 @@ const Counter = () => {
   const [count, setCount] = React.useState(0);
 
   useHotkeys(
-    key => {
+    (key, event, handle) => {
       switch (key) {
         case 'up':
           return setCount(count + 1);
