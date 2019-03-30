@@ -18,7 +18,7 @@ React wrapper around [Hotkeys.js](https://github.com/jaywcjlove/hotkeys).
 
 Read about [Hooks](https://reactjs.org/docs/hooks-intro.html) feature.
 
-# Install
+## Installation
 
 > Note: React 16.8+ is required for Hooks.
 
@@ -34,7 +34,7 @@ npm i use-hotkeys
 yarn add use-hotkeys
 ```
 
-# Usage
+## Usage
 
 [![Edit 1llx4n8q4](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/1llx4n8q4?fontsize=14)
 
