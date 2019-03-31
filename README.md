@@ -57,7 +57,8 @@ const Counter = () => {
           return setCount(count);
       }
     },
-    ['up', 'down']
+    ['up', 'down'],
+    [count]
   );
 
   return <div>{count}</div>;

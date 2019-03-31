@@ -16,15 +16,16 @@ const Counter = () => {
   useHotkeys(
     key => {
       switch (key) {
-        case 'up':
+        case 'up': {
           return setCount(count + 1);
-        case 'down':
+        }
+        case 'down': {
           return setCount(count - 1);
-        default:
-          return setCount(count);
+        }
       }
     },
-    ['up', 'down']
+    ['up', 'down'],
+    [count]
   );
 
   return <div>{count}</div>;
