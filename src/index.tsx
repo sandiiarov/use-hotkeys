@@ -11,7 +11,7 @@ function useHotkeys(
     return () => {
       keys.forEach(key => hotkeys.unbind(key));
     };
-  }, [keys]);
+  }, keys);
 }
 
 export default useHotkeys;
